@@ -1,6 +1,6 @@
 # 🚀 Pipeline CI/CD Multi-OS com Integração SonarCloud
 
-[![Missao 2 — CI Multi-OS + Segurança (Sonar)](https://github.com/douglasdeveza/multi-os-ci-pipeline-sonar/actions/workflows/missao2-sonarqube.yml/badge.svg)](https://github.com/douglasdeveza/multi-os-ci-pipeline-sonar/actions/workflows/missao2-sonarqube.yml)
+[![Multi-OS CI Pipeline - SonarCloud](https://github.com/douglasdeveza/multi-os-ci-pipeline-sonar/actions/workflows/missao2-sonarqube.yml/badge.svg)](https://github.com/douglasdeveza/multi-os-ci-pipeline-sonar/actions/workflows/missao2-sonarqube.yml)
 
 ## 📌 Sobre o Projeto
 
