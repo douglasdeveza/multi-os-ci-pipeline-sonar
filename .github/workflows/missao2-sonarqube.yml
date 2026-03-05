@@ -1,4 +1,4 @@
-name: Missao 2 — CI Multi-OS + Segurança (Sonar)
+name: Multi-OS CI Pipeline - SonarCloud
 
 on:
   push:
